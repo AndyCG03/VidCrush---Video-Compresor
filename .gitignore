@@ -1,0 +1,79 @@
+# Archivos de sistema Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Archivos de sistema Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Archivos de sistema Linux
+*~
+.swp
+.directory
+*.lock
+
+# Archivos generados por VIDCRUSH
+/VIDEOS_COMPRIMIDOS/
+/LOGS_VIDCRUSH/
+comprimidos/
+Logs/
+*.log
+*.mp4
+*.gif
+!script.sh
+
+# Archivos de configuración local
+.video_compressor.conf
+.vidcrush.conf
+config.local
+
+# Archivos temporales
+/tmp/
+/temp/
+*.tmp
+*.temp
+*.cache
+
+# Archivos de ffmpeg portable (si el usuario los pone)
+/ffmpeg/
+/ffmpeg.exe
+/ffprobe.exe
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swo
+*.swn
+*.swp
+*.swm
+.project
+.classpath
+.settings/
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.old
+
+# Logs de pruebas
+test-*.log
+*-test.mp4
+*-test.gif
+
+# Carpeta de documentación (excepto README)
+/docs/
+!/README.md
+
+# GitHub
+*.zip
+*.tar.gz
+*.7z
+!*.sh
