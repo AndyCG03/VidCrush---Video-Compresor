@@ -1,7 +1,11 @@
 # 🎬 VIDCRUSH PRO - Compresor de Video Profesional
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://img.shields.io/badge/version-3.0--PRO-blue.svg" alt="Version 3.0 PRO">
+=======
+  <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="Version 3.0">
+>>>>>>> a0fb73753c1a03ee1e939abcee9048ceb1319ae3
   <img src="https://img.shields.io/badge/plataforma-Git%20Bash%20(Windows)%20%7C%20Linux%20%7C%20MacOS-lightgrey.svg" alt="Plataforma">
   <img src="https://img.shields.io/badge/ffmpeg-obligatorio-green.svg" alt="FFmpeg">
   <img src="https://img.shields.io/badge/modo-CARPETA%20MÁGICA-brightgreen.svg" alt="Modo Carpeta Mágica">
