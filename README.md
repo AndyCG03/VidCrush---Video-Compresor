@@ -1,7 +1,7 @@
 # 🎬 VIDCRUSH - Compresor de Video Profesional
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.3-blue.svg" alt="Version 2.3">
+  <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="Version 3.0">
   <img src="https://img.shields.io/badge/plataforma-Git%20Bash%20(Windows)%20%7C%20Linux%20%7C%20MacOS-lightgrey.svg" alt="Plataforma">
   <img src="https://img.shields.io/badge/ffmpeg-obligatorio-green.svg" alt="FFmpeg">
 </p>
